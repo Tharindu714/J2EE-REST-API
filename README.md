@@ -1,5 +1,3 @@
-## **README.md for J2EE REST API**
-
 # 🌐 J2EE REST API Module
 
 > A JAX-RS–powered RESTful API built with Java EE, providing CRUD endpoints under `com.tharindu.web.rest` for core domain entities.
