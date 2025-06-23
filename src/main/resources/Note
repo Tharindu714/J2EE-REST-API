@@ -1,0 +1,36 @@
+Test these REST methods using Postman or any REST client.
+    @POST
+    public String post(){
+        return "post";
+    }
+
+    @PUT
+    public String put(){
+        return "put";
+    }
+
+    @DELETE
+    public String delete(){
+        return "delete";
+    }
+
+    @OPTIONS
+    public String options(){
+        return "options";
+    }
+
+    @HEAD
+    public String head(){
+        return "head";
+    }
+
+    //how to kill a process on port 4848 in Windows
+    netstat -aon | findstr :4848 // Execute this command in cmd to find the PID of the process using port 4848
+
+    //Then you can find the PID in the output, which looks like this:
+      TCP    0.0.0.0:4848           0.0.0.0:0              LISTENING       <PID>
+      TCP    [::]:4848              [::]:0                 LISTENING       <PID>
+
+    taskkill /PID <PID> /F // Kill the process using the PID found in the previous step
+
+    SUCCESS: The process with PID <PID> has been terminated.
