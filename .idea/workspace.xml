@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cab30063-3764-4d74-97f9-d1a538c21127" name="Changes" comment="" />
+    <list default="true" id="cab30063-3764-4d74-97f9-d1a538c21127" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +25,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -64,6 +70,8 @@
     &quot;HTTP Request.generated-requests | #1.executor&quot;: &quot;Run&quot;,
     &quot;Maven.J2EE-REST [clean].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;G:/IntelliJ_IDEA_Project/J2EE-REST-API&quot;,
@@ -192,6 +200,8 @@
       <workItem from="1750651176102" duration="4032000" />
       <workItem from="1750657428540" duration="9301000" />
       <workItem from="1750675205768" duration="144000" />
+      <workItem from="1750675380304" duration="281000" />
+      <workItem from="1750724298362" duration="158000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project setup with J2EE REST API example&#10;&#10;Add Maven project files, .gitignore, and IntelliJ IDEA configuration. Implement basic JAX-RS REST API with user resource endpoints, including GET, POST, PUT, DELETE, and search functionality. Includes a simple in-memory user store and example usage notes.">
       <option name="closed" value="true" />
@@ -201,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750674539656</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial project setup with J2EE REST API example&#10;&#10;Add Maven project files, .gitignore, and IntelliJ IDEA configuration. Implement basic JAX-RS REST API with user resource endpoints, including GET, POST, PUT, DELETE, and search functionality. Includes a simple in-memory user store and example usage notes.">
+      <option name="closed" value="true" />
+      <created>1750675505395</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750675505395</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
